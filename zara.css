@@ -1,0 +1,87 @@
+body{
+    position: relative;
+    background-image: url(back8.jpg);
+    background-repeat: no-repeat;
+    top: -80px;
+    left: 150px;
+    margin-bottom: -60px;
+}
+h1{
+    position: relative;
+    margin: 0 0 0 320px;
+    color: red;
+    left: -20px;
+    top: -12px;
+}
+
+#gambar_eve{
+    position: relative;
+    border-width: 20px;
+    border-style: solid;
+    border-color: pink;
+    margin-top: 100px;
+    margin-left: 200px;
+}   
+
+.profil{
+    position: relative;
+    top:-497px;
+    left: 420px;
+    font-family: 'Helvetica',sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.isi{
+    position: relative; 
+    top:-660px;
+    left: 580px;
+    font-family: 'Helvetica',sans-serif;
+    font-size: 15px;
+}
+
+#gambar_pita{
+    position: relative;
+    top:-311px;
+    left: 180px;
+}
+
+h2{
+    position: relative;
+    top: 160px;
+    left: 417px;
+    font-size: 30px;
+    
+}
+#jkt48{
+    position: relative;
+    left: 900px;
+    top: -300px;
+}
+
+#vz{
+    position: relative;
+    top: -600px;
+    left: 200px;
+    display: block;
+}
+
+.lo_{
+    position: relative;
+    left: 170px;
+    top: 80px;
+
+}
+
+#tz{
+    position: relative;
+    top: -550px;
+    left: 176px;
+    width: 800px;
+    height: 400px;
+    overflow: auto;
+    margin-bottom: 100px;
+    border-color:pink;
+    border-style: solid;
+    border-width: 10px;
+}
